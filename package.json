@@ -1,0 +1,23 @@
+{
+  "name": "solidity-tutorial",
+  "version": "1.0.0",
+  "description": "Learn Solidity, smart contracts, web3. Code and notes.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate"
+  },
+  "keywords": [],
+  "author": "Chew Han Xiang <hello@chewhx.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "web3": "^1.7.4"
+  },
+  "dependencies": {
+    "truffle-assertions": "^0.9.2"
+  }
+}
