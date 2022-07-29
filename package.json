@@ -1,5 +1,5 @@
 {
-  "name": "solidity-tutorial",
+  "name": "learn-solidity",
   "version": "1.0.0",
   "description": "Learn Solidity, smart contracts, web3. Code and notes.",
   "main": "truffle-config.js",
